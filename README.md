@@ -6,7 +6,7 @@ The goal is to identify churn drivers, measure financial impact, and provide act
 
 ## 🔹 Dataset
 - **Source**: Telco Customer Churn dataset (CSV)  
-- **Rows**: ~7,000 customers  
+- **Rows**: ~7,043 customers  
 - **Key fields**: tenure, contract type, monthly charges, internet services, payment method, churn flag.  
 
 ## 🔹 Data Preparation
